@@ -6,7 +6,7 @@ namespace ConsoleProvaGit
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Topolino");
         }
     }
 }
