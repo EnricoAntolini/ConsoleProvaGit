@@ -8,6 +8,7 @@ namespace ConsoleProvaGit
         {
             Console.WriteLine("Topolino");
             Console.WriteLine("Pippo");
+            Console.WriteLine("Paperino");
         }
     }
 }
