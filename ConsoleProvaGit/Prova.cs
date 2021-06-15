@@ -3,5 +3,6 @@
     public class Prova
     {
         public double Topolino { get; set; }
+        public double Pippo { get; set; }
     }
 }
